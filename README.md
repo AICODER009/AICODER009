@@ -1,5 +1,5 @@
 <p align="center">
-<img src= https://cdn.dribbble.com/users/1840957/screenshots/5720488/media/6a4e13e5ce4ca8e10ba7d4d881fa4da0.gif />
+<img src= https://cdn.dribbble.com/users/1840957/screenshots/5720488/media/6a4e13e5ce4ca8e10ba7d4d881fa4da0.gif height="250" width= "500"/>
 </p>
 <h1 align="center">Hi 👋, I'm Subhan</h1>
 <h3 align="center">Machine learning engineer</h3>
