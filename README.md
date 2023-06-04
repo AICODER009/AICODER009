@@ -1,4 +1,5 @@
-![wallpaper](https://github.com/AICODER009/AICODER009/assets/133597851/c7832996-dd3d-40e7-929f-eb0dfd458bba)
+![image](https://github.com/AICODER009/AICODER009/assets/133597851/104d3df9-f7f2-4760-b968-253bd922c694)
+
 
 <h1 align="center">Hi 👋, I'm Subhan</h1>
 <h3 align="center">Machine learning engineer</h3>
