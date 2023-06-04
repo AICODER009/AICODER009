@@ -1,7 +1,6 @@
-![image](https://github.com/AICODER009/AICODER009/assets/133597851/d263049a-ca47-45b7-989a-00255e848b09)
-
-
-
+<p align="center">
+<img src= https://cdn.dribbble.com/users/1840957/screenshots/5720488/media/6a4e13e5ce4ca8e10ba7d4d881fa4da0.gif />
+</p>
 <h1 align="center">Hi 👋, I'm Subhan</h1>
 <h3 align="center">Machine learning engineer</h3>
 
