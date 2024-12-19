@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm Subhan</h1>
 <h3 align="center">Machine learning engineer</h3>
 
-- 🔭 I’m currently working on [Food vision](https://huggingface.co/spaces/AICODER009/Food101_Detection)
 
 - 🌱 I’m currently learning **AWS/AZURE cloud**
 
