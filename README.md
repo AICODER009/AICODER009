@@ -5,15 +5,11 @@
 <h3 align="center">Machine learning engineer</h3>
 
 
-- 🌱 I’m currently learning **AWS/AZURE cloud**
-
-- 👯 I’m looking to collaborate on [Car vision](https://huggingface.co/spaces/AICODER009/Food101_Detection)
-
 - 👨‍💻 All of my projects are available at [https://github.com/AICODER009](https://github.com/AICODER009)/https://huggingface.co/AICODER009
 
-- 💬 Ask me about **Python,Pytorch,CNNs,RNNs,Transformers,Diffusion,Computer Vision**
 
-- 📫 How to reach me **aliyevsubhan154@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
